@@ -1,0 +1,6 @@
+[submodule "sub-mod1"]
+	path = sub-mod1
+	url = https://github.com/jhh-ncurity/sub-mod1.git
+[submodule "sub-mod2"]
+	path = sub-mod2
+	url = https://github.com/jhh-ncurity/sub-mod2.git
